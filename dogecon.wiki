@@ -1,17 +1,17 @@
 wiki/1
 
-§ Dogecon
+§ DogeCon
 
 ⸺ by Charles Iliya Krempeaux
 
-**Dogecon** was a conference that took place in [[downtown-vancouver]] in **June 2018**.
+**DogeCon** was a conference that took place in [[downtown-vancouver]] in **June 2018**.
 
-**Dogecon** was motivated by the [[dogecoin]] cryptocurrency.
+**DogeCon** was motivated by the [[dogecoin]] cryptocurrency.
 
-Like [[dogecoin]], **Dogecon** was meant to be //light-hearted// and //just-for-fun//.
-It was mostly about entertainment — although there were some technical presentations at **Dogecon**.
+Like [[dogecoin]], **DogeCon** was meant to be //light-hearted// and //just-for-fun//.
+It was mostly about entertainment — although there were some technical presentations at **DogeCon**.
 
-I attended **Dogecon** with my friend **Anthony Tsui**.
+I attended **DogeCon** with my friend **Anthony Tsui**.
 
 §§ See Also
 
