@@ -1,12 +1,12 @@
 wiki/1
 
-§ Hello World!
+§ DogeCon Meme Art
 
 ⸺ by Charles Iliya Krempeaux
 
 ⸺ published 2018-06-22T13:01:41-07:00
 
-A photo while I am at [[dogecon]].
+A photo from [[dogecon]].
 
 ⁁ log/2018/06/22/1529697701/dogecon.jpeg
 
