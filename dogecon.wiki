@@ -6,9 +6,9 @@ wiki/1
 
 **DogeCon** was a conference that took place in [[downtown-vancouver]] in **June 2018**.
 
-**DogeCon** was motivated by the [[dogecoin]] cryptocurrency.
+**DogeCon** was motivated by the [[doge-meme]] and the [[dogecoin]] cryptocurrency.
 
-Like [[dogecoin]], **DogeCon** was meant to be //light-hearted// and //just-for-fun//.
+Like the [[doge-meme]] and the [[dogecoin]], **DogeCon** was meant to be //light-hearted// and //just-for-fun//.
 It was mostly about entertainment — although there were some technical presentations at **DogeCon**.
 
 ― Much Conference. Very Vancouver.
@@ -20,6 +20,12 @@ Bob Summerwill,
 Chelsea Palmer,
 Matt Lockyer,
 and others.
+
+The way the **DogeCon** was described on the (former) ``dogecon.fun`` website was:
+
+― Dogecon Vancouver 2018 is a weekend celebration of the social layer of crypto culture, embracing memes and tweetstorms as the current pinnacle of human art and attention. Using the Year of the Doge as a launchpad, we’ll engage in a range of participatory experiences from carefree and whimsical Partying to deep dialectical dialogues.
+― 
+― Dogecon will be the crypto unconvention, where play and art are granted as much reverence as math and hardware. We’ll be livestreaming everything, with ample opportunities for our attendees to make their voices heard, from Speed Debates to Crypto Confessional Booths. Come roll up your sleeves and get zany with the decentralist scene!
 
 §§ See Also
 
