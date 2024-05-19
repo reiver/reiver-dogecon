@@ -11,3 +11,7 @@ I am at [[dogecon]].
 **DogeCon** is a //light-hearted// conference about [[dogecoin]] that (like **DogeCoin**) is meant to //just-for-fun//.
 
 ⁁ log/2018/06/22/1529697440/dogecon.jpeg
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+On //Friday June 22nd, 2018// and //Saturday June 23rd, 2018// Charles Iliya Krempeaux attended [[dogecon]] — a //light-hearted// //just-for-fun// conference, motivated by the [[doge-meme]] and the [[dogecoin]] cryptocurrency.
