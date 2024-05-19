@@ -8,10 +8,10 @@ wiki/1
 
 //Bob Summerwill// posted on Twitter these photos of the //Decentralized Dance Party// (//DDP//) at DogeCon.
 
-⁁ 2018/06/23/1529820396/dogecon-ddp-1.jpeg
-⁁ 2018/06/23/1529820396/dogecon-ddp-2.jpeg
-⁁ 2018/06/23/1529820396/dogecon-ddp-3.jpeg
-⁁ 2018/06/23/1529820396/dogecon-ddp-4.jpeg
+⁁ log/2018/06/23/1529820396/dogecon-ddp-1.jpeg
+⁁ log/2018/06/23/1529820396/dogecon-ddp-2.jpeg
+⁁ log/2018/06/23/1529820396/dogecon-ddp-3.jpeg
+⁁ log/2018/06/23/1529820396/dogecon-ddp-4.jpeg
 
 //Bob Summerwill// included the comment:
 
