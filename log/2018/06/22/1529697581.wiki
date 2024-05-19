@@ -1,6 +1,6 @@
 wiki/1
 
-§ Hello World!
+§ DogCon Talks
 
 ⸺ by Charles Iliya Krempeaux
 
