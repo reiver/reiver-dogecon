@@ -40,7 +40,7 @@ The way the **DogeCon** was described on the (former) ``dogecon.fun`` website wa
 The organizers behind **DogeCon** are (in alphabetical order):
 Alex Salkeld,
 Arman Mottaghi
-Cameron Gray,,
+Cameron Gray,
 Chelsea Palmer,
 Gary Lachance,
 Jacob Robert Steeves,
