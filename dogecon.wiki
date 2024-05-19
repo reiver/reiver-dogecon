@@ -32,3 +32,18 @@ The way the **DogeCon** was described on the (former) ``dogecon.fun`` website wa
 §§ See Also
 
 • [[dogecon-logs]]
+
+§§ DogeCon Organizers
+
+The organizers behind **DogeCon** are (in alphabetical order):
+Alex Salkeld,
+Arman Mottaghi
+Cameron Gray,,
+Chelsea Palmer,
+Gary Lachance,
+Jacob Robert Steeves,
+Ludmila Maresova,
+Rob Myers,
+Sophia Hughes,
+and
+Tanna Po.
