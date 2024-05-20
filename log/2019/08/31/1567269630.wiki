@@ -1,0 +1,44 @@
+wiki/1
+
+§ DogeCoin as a Bitcoin Meme (DogeCoin)
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2019-08-31T09:40:30-07:00
+
+From //Sunny Aggarwal//:
+
+― The Ethereum community is too meta about memes.
+― They try too hard and have like "meme-driven development" panels and whatnot.
+― Meanwhile, the Bitcoin community just actually makes decent memes.
+― 
+― […]
+― 
+― Obviously HODL was great
+― 
+― […]
+― 
+― I consider the entire existence of Dogecoin to be a Bitcoin meme.
+― 
+― Fun fact:  first time I learned about crypto was when the Jamaican bobsled team fundraised in Dogecoin to go the Olympics!
+― 
+―  From DogeCon decentralized dance party:
+― [[log/2018/06/24/1529826975]]
+― 
+― I forgot where I saw it, but someone tweeted that if you want to see how passionate a fanbase is see how many songs they make
+― 
+― […]
+― 
+― A bunch of the funny historical mythos stuff.  Alpaca socks, magic internet money banner, slaying the BearWhale, etc
+― 
+― ⁁ log/2019/08/31/1567269630/bitcoin-magic-internet-money.jpeg
+― ⁁ log/2019/08/31/1567269630/bitcoin-whale-slaying.jpeg
+― 
+― Oh, I also just really like these two 😄
+― 
+― ⁁ log/2019/08/31/1567269630/bitcoin-gpu.jpeg
+― ⁁ log/2019/08/31/1567269630/bitcoin-vs-tuition.jpeg
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+On //Friday June 22nd, 2018// and //Saturday June 23rd, 2018// Charles Iliya Krempeaux attended [[dogecon]] — a //light-hearted// //just-for-fun// conference, motivated by the [[doge-meme]] and the [[dogecoin]] cryptocurrency.
